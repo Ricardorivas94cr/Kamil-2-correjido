@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\bin\Debug\ProyectoKamil.exe.config
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\bin\Debug\ProyectoKamil.exe
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\bin\Debug\ProyectoKamil.pdb
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\obj\Debug\ProyectoKamil.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\obj\Debug\ProyectoKamil.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\obj\Debug\ProyectoKamil.Form1.resources
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\obj\Debug\ProyectoKamil.Formulario_Directivos.resources
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\obj\Debug\ProyectoKamil.Formulario_Empleados.resources
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\obj\Debug\ProyectoKamil.Properties.Resources.resources
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\obj\Debug\ProyectoKamil.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\obj\Debug\ProyectoKamil.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\obj\Debug\ProyectoKamil.exe
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\obj\Debug\ProyectoKamil.pdb
+C:\Users\Administrador\source\repos\ProyectoKamil\ProyectoKamil\obj\Debug\ProyectoKamil.Formulario_Centros.resources
